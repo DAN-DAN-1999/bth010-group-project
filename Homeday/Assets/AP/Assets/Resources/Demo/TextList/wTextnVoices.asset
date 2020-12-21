@@ -138,7 +138,7 @@ MonoBehaviour:
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
-      showInInventory: 1
+      showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 30
@@ -173,17 +173,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - March 20, 2018
+      - "\u75AB\u60C5\u4E25\u91CD\u3002"
       diaryTextDisplayState: 01
       diaryText:
-      - 'March 20, 2018
-
-
-        Yesterday I made a major discovery. While I was
-        digging, I felt air behind the wall. It seems that there are other tunnels
-        nearby. Maybe the tunnels are connected with each other. But what is most
-        disturbing, are the voices I heard. I am too scared to continue today, but
-        time is running out and I must continue tomorrow. '
+      - "\u65B0\u51A0\u75AB\u60C5\u4E25\u91CD\uFF0C\u4E0D\u80FD\u51FA\u95E8\u3002"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -199,7 +192,7 @@ MonoBehaviour:
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
-      showInInventory: 1
+      showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 3
@@ -633,7 +626,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 17
+  selectedID: 5
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0

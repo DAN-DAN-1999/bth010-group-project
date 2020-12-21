@@ -277,6 +277,84 @@ MonoBehaviour:
       uniqueItemID: 11
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - "\u6728\u96D5"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "\u4F3C\u4E4E\u548C\u77F3\u95E8\u6709\u5173"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: de6fd08ec664649b69d4be8aae3532fd, type: 3}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 2.8355923, y: 76.48728, z: 16.67079}
+      uniqueItemID: 12
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "\u795E\u5947\u7684\u94C5\u7B14"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "\u89E3\u5F00\u4E00\u5207\u7684\u795E\u5668"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 2.8355923, y: 76.48728, z: 16.67079}
+      uniqueItemID: 13
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "\u53E6\u4E00\u5F20\u5361\u7247"
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: 1687271e5c977458890f6cc40b105249, type: 3}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 2.8355923, y: 76.48728, z: 16.67079}
+      uniqueItemID: 15
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -289,7 +367,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 50
-  selectedID: 9
+  selectedID: 12
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 1
