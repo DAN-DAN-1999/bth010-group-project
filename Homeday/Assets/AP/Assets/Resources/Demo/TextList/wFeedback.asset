@@ -15,7 +15,7 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - A card is needed
+      - "\u9700\u8981\u4E00\u5F20\u5361\u724C"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -41,7 +41,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - The card was used
+      - "\u5361\u724C\u5DF2\u88AB\u4F7F\u7528"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -93,7 +93,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - The key was used
+      - "\u94A5\u5319\u5DF2\u88AB\u4F7F\u7528"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -119,7 +119,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A key is needed
+      - "\u9700\u8981\u4E00\u628A\u94A5\u5319"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -145,7 +145,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A contemporary art painting
+      - " \u7A7F\u8D8A\u8FC7\u6765\u7684\u753B"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -171,7 +171,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Vacation pictures '
+      - "\u65C5\u884C\u65F6\u7684\u7167\u7247"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -197,7 +197,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Strange statue
+      - "\u53D8\u6837\u7684\u5395\u6240\u95E8 "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -223,7 +223,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Picture of a church
+      - "\u6559\u5802"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -249,7 +249,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Picture of a seaside
+      - "\u6D77\u8FB9"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -275,7 +275,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Picture taken in the woods
+      - "\u6811\u6797"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -301,7 +301,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - A metal door
+      - "\u4E00\u6247\u94C1\u95E8"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -327,7 +327,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Canvas protecting a device
+      - "\u753B\u4E0E\u673A\u5173\u5408\u4E8C\u4E3A\u4E00 "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -353,372 +353,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Pickax
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 22
-      itemType: 0
-      audioPriority: 0
-  - _languageSlot:
-    - diaryTitle:
-      - Il faut une carte
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 9
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "La carte a \xE9t\xE9 utilis\xE9e"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - New Title
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "La cl\xE9 a \xE9t\xE9 utilis\xE9e"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 11
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Il faut une cl\xE9"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 12
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Une peinture d\u2019art contemporain"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Photos de vacances
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 15
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Statue \xE9trange"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 16
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Photo d'une \xE9glise"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 17
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Photo d'un bord de mer
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 18
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Photo prise dans les bois
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 19
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Porte en metal
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 20
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Tableau prot\xE9geant un m\xE9canisme"
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 21
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Pioche
+      - "\u94C1\u9550"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -747,16 +382,15 @@ MonoBehaviour:
   idEditorSize: 20
   titleEditorSize: 240
   textEditorSize: 300
-  showMoreOptions: 0
+  showMoreOptions: 1
   showMoveUpDown: 1
-  showNameOptions: 0
+  showNameOptions: 1
   listOfLanguage:
-  - English
-  - French
+  - Chinese
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 0
+  selectedID: 2
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 3

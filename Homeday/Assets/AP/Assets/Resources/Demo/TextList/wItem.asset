@@ -251,37 +251,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - African statue
+      - "\u6740\u866B\u5242"
       diaryTextDisplayState: 01
       diaryText:
-      - Wood statue from Benin.
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 21300000, guid: de6fd08ec664649b69d4be8aae3532fd, type: 3}
-      refGameObject: {fileID: 1491044691996054, guid: 761c363dbeb1549aab7b5f99830b4196,
-        type: 3}
-      showInInventory: 1
-      prefabSizeInViewer: 3.38245
-      prefabRotationInViewer: {x: 2.8355901, y: 76.48727, z: 342.9612}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Insecticide
-      diaryTextDisplayState: 01
-      diaryText:
-      - Half empty bug spray.
+      - "\u5DF2\u8FC7\u671F"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -304,87 +277,6 @@ MonoBehaviour:
       uniqueItemID: 11
       itemType: 0
       audioPriority: 0
-    - diaryTitle:
-      - Solar cream
-      diaryTextDisplayState: 01
-      diaryText:
-      - Sunscreen UV 50.
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 21300000, guid: 871e1c87159ef410b92f5e9ed9d9cb5b, type: 3}
-      refGameObject: {fileID: 1079277614919720, guid: 44d4df384a6794184864cc03a79fcfdb,
-        type: 3}
-      showInInventory: 1
-      prefabSizeInViewer: 4.8536267
-      prefabRotationInViewer: {x: 16.216213, y: 12.723557, z: 4.836349}
-      uniqueItemID: 12
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - MyObject2018
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 7106486869695008512, guid: 05360d505b2634831b890ef144597548,
-        type: 3}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 16.216213, y: 12.723557, z: 4.836349}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - MyDoor
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 8514120263562235204, guid: f0decb019d8324d6a872f734c84bcd5f,
-        type: 3}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 16.216213, y: 12.723557, z: 4.836349}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -397,7 +289,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 50
-  selectedID: 12
+  selectedID: 9
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 1
