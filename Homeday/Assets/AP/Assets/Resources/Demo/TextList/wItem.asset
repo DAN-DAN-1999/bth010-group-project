@@ -322,12 +322,12 @@ MonoBehaviour:
         textSub:
         - 
       diarySprite:
-      - {fileID: 21300000, guid: 6eadda36160f6884994a29f65faaa872, type: 3}
+      - {fileID: 21300000, guid: f3dfb27bf330ada4bb7136db7825813c, type: 3}
       refGameObject: {fileID: 1920514456456451, guid: 63cdd97850f873c4eabcd0f222d47b22,
         type: 3}
       showInInventory: 1
       prefabSizeInViewer: 5
-      prefabRotationInViewer: {x: 2.8355937, y: 76.48728, z: 16.670786}
+      prefabRotationInViewer: {x: 2.8355942, y: 76.48728, z: 16.670784}
       uniqueItemID: 13
       itemType: 0
       audioPriority: 0
@@ -358,6 +358,33 @@ MonoBehaviour:
       uniqueItemID: 15
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - "5\u53F7\u6570\u5B57\u952E"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "\u770B\u4E0A\u53BB\u50CF\u662F\u4E2A\u6309\u952E"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: 42365ca1527e52948a37a6b5844b7bfd, type: 3}
+      refGameObject: {fileID: 4304879722281873519, guid: ec77822ec8fb54d46b49735ac60cfd59,
+        type: 3}
+      showInInventory: 1
+      prefabSizeInViewer: 3
+      prefabRotationInViewer: {x: 8.468167, y: 22.68113, z: 359.55682}
+      uniqueItemID: 16
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -370,7 +397,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 50
-  selectedID: 10
+  selectedID: 11
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 1
